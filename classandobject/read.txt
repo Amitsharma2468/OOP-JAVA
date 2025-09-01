@@ -1,0 +1,31 @@
+Java OOP – Class and Object (Easy Words)
+
+Class:
+
+A class is a plan or blueprint.
+
+It tells what data (properties) and actions (methods) objects will have.
+
+It is not real, just a design.
+
+Object:
+
+An object is a real thing made from a class.
+
+Each object has its own data.
+
+Objects can do the actions (methods) of the class.
+
+Key Points:
+
+Class = plan or design
+
+Object = real thing or instance
+
+Many objects can come from one class
+
+Remember:
+
+Class tells what something will have
+
+Object is the actual thing you use
