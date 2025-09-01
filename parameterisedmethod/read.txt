@@ -1,0 +1,23 @@
+Java OOP – Parameterized Method (Easy Words)
+
+Parameterized Method:
+
+A parameterized method is a method that takes input values (called parameters) to work with.
+
+These inputs help the method do its task with different data each time.
+
+Objects call the method and pass values to it.
+
+Key Points:
+
+Parameters are like ingredients you give to a method.
+
+Makes code flexible and reusable.
+
+Helps objects do different actions using the same method.
+
+Remember:
+
+Parameterized Method = Method that accepts input
+
+Objects give data to the method to use

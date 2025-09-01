@@ -1,0 +1,25 @@
+Java OOP – Method (Easy Words)
+
+Method:
+
+A method is a set of instructions that tells an object what to do.
+
+It defines the behavior of an object.
+
+Methods can take input (parameters) and give output (return value).
+
+Key Points:
+
+Methods are inside a class.
+
+Objects use methods to perform actions.
+
+Methods help reuse code and organize program.
+
+Every method has a name and body (the instructions).
+
+Remember:
+
+Method = Action / Behavior
+
+Object uses methods to do things
