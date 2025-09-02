@@ -1,0 +1,12 @@
+Java OOP – Return Value from Method
+
+A method can do some work and then send back (return) a result.
+
+The value it returns must match the return type declared in the method (like int, String, double, etc.).
+
+If a method does not return anything, its return type is void.
+
+Returning a value allows us to use the result in other parts of the program.
+
+👉 In simple words:
+A method is like a machine. You give it input, it works, and then it can return a product (value) back to you.
