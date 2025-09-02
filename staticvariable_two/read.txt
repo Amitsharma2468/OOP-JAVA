@@ -1,0 +1,37 @@
+🔹 Static Variable
+
+Declared with the static keyword.
+
+Belongs to the class, not to individual objects.
+
+Shared by all objects of the class.
+
+Only one copy exists in memory, regardless of how many objects are created.
+
+Can be accessed using the class name (e.g., ClassName.variable).
+
+Lifetime: exists for the entire duration of the program.
+
+Example use: counters, database connections, constants.
+
+🔹 Non-Static (Instance) Variable
+
+Declared without the static keyword.
+
+Belongs to a specific object (instance).
+
+Each object has its own separate copy.
+
+Changes made to one object’s variable do not affect others.
+
+Accessed through an object reference (e.g., obj.variable).
+
+Lifetime: exists as long as the object exists.
+
+Example use: name, age, salary of employees (different for each object).
+
+👉 In short:
+
+Static = one copy shared by all objects (class level).
+
+Non-Static = each object has its own copy (object level).
