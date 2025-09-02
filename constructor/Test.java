@@ -7,5 +7,7 @@ public class Test {
         teacher1.displayInfo();
         Teacher teacher2 = new Teacher("Jane Smith", "Female", 987654321);
         teacher2.displayInfo();
+        Teacher teacher3 = new Teacher();
+        teacher3.displayInfo();
     }
 }
