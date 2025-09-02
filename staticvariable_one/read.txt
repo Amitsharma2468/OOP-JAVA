@@ -1,0 +1,27 @@
+Java OOP – Static Variable
+🔹 What is a Static Variable?
+
+A static variable belongs to the class (not to objects).
+
+It is shared by all objects of that class.
+
+Memory for static variable is created only once when the class is loaded.
+
+It is useful for values that are common to all objects.
+
+🔹 Real-Life Example:
+
+Imagine a University.
+
+Every student has their own name, ID, department → (these are instance variables).
+
+But the University Name is same for all students → (this is a static variable).
+
+So:
+
+studentName, studentID, department → different for each student.
+
+universityName → same for all, so we make it static.
+
+👉 In simple words:
+Static variable = one copy, shared by all objects.
