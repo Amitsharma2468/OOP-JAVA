@@ -1,0 +1,12 @@
+Java OOP – Constructor Overloading
+
+Constructor Overloading means having more than one constructor in the same class.
+
+Each constructor has the same name (class name) but different parameters (number or type).
+
+Java decides which constructor to run based on the arguments you give while creating the object.
+
+It is used to create objects in different ways with different initial values.
+
+👉 In simple words:
+Constructor overloading lets you give multiple doors to create an object. You can enter with different kinds of values, and Java will know which door (constructor) to use.
