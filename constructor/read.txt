@@ -1,0 +1,20 @@
+Java OOP – Constructor
+
+A constructor is a special method in Java.
+
+Its job is to create and set up objects.
+
+It has the same name as the class.
+
+A constructor runs automatically when an object is made.
+
+It does not return any value, not even void.
+
+There are two main types:
+
+Default constructor → made by Java if you don’t write one.
+
+Parameterized constructor → lets you pass values while making an object.
+
+👉 In simple words:
+A constructor is like a welcome setup for an object. When you create an object, the constructor runs and gives it the first setup values.
