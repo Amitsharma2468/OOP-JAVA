@@ -1,0 +1,41 @@
+🔹 Method Overloading in Java
+1. What is Method Overloading?
+
+When a class has more than one method with the same name but different parameter lists.
+
+The compiler decides which method to call based on the number or type of arguments.
+
+2. Rules for Overloading
+
+Methods must have the same name.
+
+But must differ in:
+
+Number of parameters, OR
+
+Type of parameters, OR
+
+Order of parameters.
+
+Return type alone cannot distinguish overloaded methods.
+
+3. Benefits
+
+Increases readability of the code.
+
+Allows us to use one method name for similar actions but with different inputs.
+
+4. Real-Life Example (Concept)
+
+Imagine a Calculator:
+
+add(int a, int b) → adds two integers.
+
+add(double a, double b) → adds two doubles.
+
+add(int a, int b, int c) → adds three integers.
+
+All methods are called add, but they handle different inputs → this is method overloading.
+
+👉 In simple words:
+Method overloading = same name, different parameters.
