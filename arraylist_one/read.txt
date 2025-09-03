@@ -1,0 +1,29 @@
+Definition: ArrayList is a resizable array implementation of the List interface in Java (part of java.util package). Unlike arrays, its size can grow or shrink dynamically.
+
+Key Features:
+
+Stores elements in ordered sequence (insertion order).
+
+Allows duplicate elements.
+
+Provides random access using index (like arrays).
+
+Size increases automatically when more elements are added.
+
+Not synchronized (use Collections.synchronizedList() for thread safety).
+
+Common Methods:
+
+add(E e) → adds element.
+
+get(int index) → retrieves element.
+
+set(int index, E e) → updates element.
+
+remove(int index) / remove(Object o) → removes element.
+
+size() → returns number of elements.
+
+contains(Object o) → checks if element exists.
+
+clear() → removes all elements.
