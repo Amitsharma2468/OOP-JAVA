@@ -1,0 +1,19 @@
+🔹 Static Student Count Example (Concept)
+
+Suppose we have a class Student.
+
+Each student has their own name, id, department → these are non-static variables.
+
+But we also want to count how many students are created.
+
+For that, we use a static variable called studentCount.
+
+Every time a new Student object is created, we increase this static count by 1.
+
+Since it’s static, the same studentCount is shared by all objects.
+
+👉 Real-life meaning:
+
+If 3 students take admission, the university keeps a single counter (not each student separately).
+
+That counter is like our static variable.
