@@ -1,0 +1,7 @@
+Encapsulation is like putting your important stuff in a box.  This box hides the stuff inside, so no one can just grab it.
+
+Getter (To get): This is a key to the box that lets you look at what's inside, but not change it.
+
+Setter (To set): This is another key that lets you put new stuff into the box, but it checks to make sure the new stuff is okay first.
+
+In simple terms, encapsulation bundles data and methods together and uses getters and setters as the only way to safely interact with that data.
