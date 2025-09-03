@@ -1,0 +1,8 @@
+🔹 Java OOP – Static Method
+1. What is a Static Method?
+
+A static method belongs to the class, not to any object.
+
+You can call it without creating an object.
+
+Declared using the keyword static.
