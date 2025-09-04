@@ -1,0 +1,28 @@
+Meaning: Inheritance means one class can use the features (variables and methods) of another class. It’s like a child getting qualities from parents.
+
+Why use it:
+
+To reuse code (no need to write same code again).
+
+To make programs organized and simple.
+
+To allow a child class to add its own extra features.
+
+Types:
+
+Single → One child from one parent.
+
+Multilevel → Like Grandparent → Parent → Child.
+
+Hierarchical → One parent, many children.
+(Java doesn’t allow multiple parents for one child with classes, only with interfaces.)
+
+Important words:
+
+extends → used to make inheritance.
+
+super → used when child wants to call parent’s features.
+
+Method overriding → child can change parent’s method.
+
+👉 In simple terms: Inheritance in Java means “child class gets features of parent class.”
