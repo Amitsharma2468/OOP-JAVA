@@ -1,0 +1,19 @@
+Method Overriding in Java
+
+Definition: Method overriding happens when a child class provides its own implementation of a method that is already defined in the parent class.
+
+Rules:
+
+The method in the child class must have the same name, return type, and parameters as in the parent class.
+
+There must be inheritance (extends keyword).
+
+Access modifier in the child method should be same or more accessible (e.g., protected → public).
+
+Only non-static, non-final methods can be overridden.
+
+Why use it?
+
+To achieve runtime polymorphism.
+
+To provide specific implementation in the child class.
