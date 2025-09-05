@@ -1,0 +1,52 @@
+👉 What is an Interface?
+
+An interface in Java is like a blueprint of a class.
+
+It defines what a class must do, but not how it does it.
+
+It contains method declarations (without implementation).
+
+A class that implements the interface must provide the actual implementation of those methods.
+
+📌 Why use Interfaces?
+
+To achieve abstraction (hide implementation details).
+
+To define a contract that multiple classes can follow.
+
+To support multiple inheritance in Java.
+
+👉 Interface and Multiple Inheritance
+
+In Java, a class cannot inherit from more than one class (no multiple class inheritance).
+But with interfaces, a class can implement multiple interfaces at the same time.
+
+This solves the “Diamond Problem” in multiple inheritance because:
+
+Interfaces only declare methods (no implementation conflict).
+
+The class implementing them decides how to handle those methods.
+
+🔑 Key Points about Interfaces
+
+Interfaces support full abstraction (before Java 8).
+
+A class can implement many interfaces (multiple inheritance).
+
+Interfaces help in achieving loose coupling between components.
+
+From Java 8 onward, interfaces can also have default and static methods.
+
+🚗 Real-Life Example
+
+Think of an interface as a contract.
+
+Example: A “Vehicle” interface may say: must have start, stop, accelerate.
+
+A Car, Bike, or Bus (classes) implement this interface and define their own way of starting, stopping, or accelerating.
+
+👉 In short:
+
+Abstract Class = partial abstraction (can have both defined and undefined methods).
+
+Interface = full abstraction + multiple inheritance.
