@@ -1,0 +1,27 @@
+👉 What is Polymorphism?
+
+Polymorphism means “many forms”.
+In Java, it allows the same method name to perform different actions depending on the situation.
+
+📌 Types of Polymorphism
+1. Compile-time Polymorphism (Static Polymorphism)
+
+Achieved through method overloading.
+
+Same method name, but different parameters (number or type).
+
+The decision about which method to call is made at compile time.
+
+2. Run-time Polymorphism (Dynamic Polymorphism)
+
+Achieved through method overriding.
+
+A child class provides its own version of a method already defined in the parent class.
+
+The decision about which method to call is made at run time, based on the actual object.
+
+🔑 Summary
+
+Compile-time polymorphism → Method Overloading → Resolved at compile time.
+
+Run-time polymorphism → Method Overriding → Resolved at run time.
