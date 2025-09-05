@@ -1,0 +1,43 @@
+👉 What is Abstraction?
+
+Abstraction means hiding the implementation details and showing only the important features to the user.
+
+Think of it like driving a car:
+
+You just use the steering wheel, accelerator, and brakes.
+
+You don’t need to know how the engine or gearbox works inside.
+
+That’s abstraction — showing only what’s necessary, hiding the complexity.
+
+📌 How Abstraction is done in Java?
+
+Abstract Class
+
+A class declared with the keyword abstract.
+
+It can have both abstract methods (without body) and normal methods (with body).
+
+Abstract classes cannot be directly instantiated (you can’t create an object of them).
+
+Interface
+
+A blueprint of a class.
+
+It contains only abstract methods (Java 8+ allows default and static methods).
+
+A class implements an interface to provide actual functionality.
+
+🔑 Key Points
+
+Abstraction focuses on “what to do”, not “how to do”.
+
+It helps in reducing complexity and increasing code flexibility.
+
+Done using abstract classes and interfaces.
+
+👉 Easy way to remember:
+
+Encapsulation = Data hiding (hiding variables/data).
+
+Abstraction = Implementation hiding (hiding internal logic).
